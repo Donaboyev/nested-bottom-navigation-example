@@ -7,7 +7,4 @@ It also uses navigation component
 ## Featues of the application
 <img src="https://user-images.githubusercontent.com/56734609/115445644-914f7b80-a22f-11eb-8b5e-2f0136bfd003.gif" width="400" heigth="730" />  
 
-[<img src="https://user-images.githubusercontent.com/56734609/114071381-7ccbc480-98ba-11eb-959f-674cb3a25e1e.png" width="200" height="200">](https://www.youtube.com/watch?v=wOY_BBBW9lQ "On Youtube")
-
-
-Inspired and followed by [this](https://www.youtube.com/playlist?list=PLk7v1Z2rk4hj4qi2TIZmMSiZguB-qe001), [this](https://dribbble.com/shots/5288723-Tic-Tac-Toe-Loader) and [this](https://dribbble.com/shots/4239811-Tic-Tac-Toe)
+[<img src="https://user-images.githubusercontent.com/56734609/114071381-7ccbc480-98ba-11eb-959f-674cb3a25e1e.png" width="200" height="200">](https://youtu.be/rKnv9Jyyepo "On Youtube")
