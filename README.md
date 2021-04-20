@@ -1,4 +1,3 @@
-# nested-bottom-navigation-example
 # Simple application with BottomNavigationView, ViewPager2 and TabLayout
 It also uses navigation component
 
