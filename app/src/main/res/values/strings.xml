@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">NestedNavigationFragments</string>
+    <string name="home">Home</string>
+    <string name="profile">Profile</string>
+    <string name="second_profile_fragment">Second profile fragment</string>
+    <string name="first_profile_fragment">First profile fragment</string>
+    <string name="second_home_fragment">Second home fragment</string>
+    <string name="first_home_fragment">First home fragment</string>
 </resources>

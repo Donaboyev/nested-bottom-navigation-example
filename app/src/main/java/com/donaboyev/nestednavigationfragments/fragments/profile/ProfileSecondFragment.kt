@@ -5,9 +5,6 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
-import com.donaboyev.nestednavigationfragments.databinding.FragmentHomeBinding
-import com.donaboyev.nestednavigationfragments.databinding.FragmentHomeFirstBinding
-import com.donaboyev.nestednavigationfragments.databinding.FragmentHomeSecondBinding
 import com.donaboyev.nestednavigationfragments.databinding.FragmentProfileSecondBinding
 
 class ProfileSecondFragment : Fragment() {
